@@ -1,0 +1,13 @@
+langchain
+langgraph
+langsmith
+langfuse
+fastapi
+uvicorn[standard]
+openai
+google-generativeai
+boto3
+python-dotenv
+chromadb
+pypdf
+requests
